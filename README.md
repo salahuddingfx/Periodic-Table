@@ -21,7 +21,7 @@ The project focuses on **education, design, and interactivity**, making chemistr
 - Smooth color transitions and modern UI design  
 - Search & Filter option by name, group, or symbol  
 - Lightweight — built only with HTML, CSS & JS (no frameworks)  
-- Data stored in JSON for easy customization  
+- Data
 
 ---
 
